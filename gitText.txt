@@ -30,7 +30,10 @@
 	1）、设置里面，找到GitHub Pages 将Source 设置成主分支
 	2）、打开 github 账号和厂库名称：https://github.com/myyangyue/myStudyGit/（如何有文件夹 name就是项目名称，默认打开页面是index.html)
 15、创建子分支 
-	1）、git branch  子分支名称
+	git branch  子分支名称
 16、 将head指向子分支 
 	git  checkout  子分支
 17、 git checkout -b dev  创建子分支 并且指向子分支 
+
+18、 查看当前分支 
+	git branch 
