@@ -18,3 +18,5 @@
 	2)、 git reset  --hard  commit前7位编码
 9、 查看操作记录
 	git reflog
+10、 撤销工作区未提交之前的内容 
+	git checkout -- 文件名称 
