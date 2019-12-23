@@ -9,3 +9,5 @@
 	git commit -m “ 提交修改的说明”
 5、查看当前状态 
 	git status 
+6、 插看修改内容 
+	git diff --cached   文件名
