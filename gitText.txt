@@ -32,8 +32,15 @@
 15、创建子分支 
 	git branch  子分支名称
 16、 将head指向子分支 
-	git  checkout  子分支
-17、 git checkout -b dev  创建子分支 并且指向子分支 
-
+	git  checkout  分支
+	git switch  分支
+17、   创建子分支 并且指向子分支 
+	git checkout -b 子分支
+	git switch -c 子分支
 18、 查看当前分支 
 	git branch 
+19、 合并分支
+	git merge  子分支名称
+20、删除子分支 
+	git branch -d 子分支名称
+21、 冲突处理 
